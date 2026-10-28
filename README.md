@@ -7,7 +7,8 @@
 **Welcome to my corner of GitHub.** I like exploring ideas and shaping useful tools into something people can actually use.
 
 [![Explore](https://img.shields.io/badge/Explore-my%20projects-8b6cff?style=for-the-badge)](https://github.com/Ghost-Morgan?tab=repositories)
-[![CAD Preview](https://img.shields.io/badge/QuickLook-CAD%20Preview-25c9a0?style=for-the-badge)](https://github.com/Ghost-Morgan/QuickLook-CAD-Preview)
+[![CAD Preview](https://img.shields.io/badge/QuickLook-CAD%20Preview-25c9a0?style=for-the-badge)]
+[![Personal website](https://img.shields.io/badge/Website-Visit%20my%20site-ff8fb1?style=for-the-badge)](https://ghost-morgan.github.io/)(https://github.com/Ghost-Morgan/QuickLook-CAD-Preview)
 
 </div>
 
